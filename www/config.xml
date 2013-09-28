@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Haagen Internet Test App</name>
+    <name>Haagen Internet</name>
 
     <description>
-        Test App Haagen INternet
+        Test App Haagen Internet, GitHub Sync met PhoneGap
     </description>
 
     <author href="http://haageninternet.nl" email="info@haageninternet.nl">
